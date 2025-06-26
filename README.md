@@ -1,4 +1,5 @@
 # Weather MCP Server
+[![smithery badge](https://smithery.ai/badge/@HugoGuedesipvc/ao-generativeai-cp3)](https://smithery.ai/server/@HugoGuedesipvc/ao-generativeai-cp3)
 
 Servidor MCP para previsão meteorológica, riscos e avisos em Portugal, usando dados do IPMA.
 
